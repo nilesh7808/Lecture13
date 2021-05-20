@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+section {
+    width: 360px;
+    border: 1px solid black;
+    margin: 50px auto;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    border: 1px solid gray;
+    padding: 5px;
+    font-size: 20px;
+    cursor: pointer;
+}
